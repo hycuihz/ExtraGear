@@ -1,5 +1,5 @@
 name: ExtraGear
-version: ${project.version}
+version: DEV - 12 (git 4570ea2c)
 author: TheBusyBiscuit
 depend: [Slimefun]
 
